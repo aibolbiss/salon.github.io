@@ -1,2 +1,0 @@
-# salon.github.io
-Test
